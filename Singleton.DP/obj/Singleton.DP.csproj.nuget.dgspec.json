@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Singleton.DP.csproj": {}
+    "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Singleton.DP.csproj": {}
   },
   "projects": {
-    "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Singleton.DP.csproj": {
+    "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Singleton.DP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Singleton.DP.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Singleton.DP.csproj",
         "projectName": "Singleton.DP",
-        "projectPath": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Singleton.DP.csproj",
+        "projectPath": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Singleton.DP.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

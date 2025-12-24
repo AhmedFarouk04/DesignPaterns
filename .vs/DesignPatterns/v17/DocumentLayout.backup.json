@@ -1,17 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|d:\\backend\\.net\\project\\designpatterns\\designpatterns\\singleton.dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|solutionrelative:singleton.dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|d:\\backend\\.net\\project\\designpatterns\\designpatterns\\singleton.dp\\gcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\wrong\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\wrong\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\context\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\context\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\strategies\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\strategies\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\strategies\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\strategies\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\strategies\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\strategies\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\strategies\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\strategies\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\singleton.dp\\gcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|solutionrelative:singleton.dp\\gcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|d:\\backend\\.net\\project\\designpatterns\\designpatterns\\singleton.dp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\strategy.dp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\strategy.dp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\strategy.dp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\strategy.dp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\strategy.dp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A1CBF56C-4AF2-4B95-9891-52A002E64E84}|Strategy.DP\\Strategy.DP.csproj|solutionrelative:strategy.dp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\singleton.dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|solutionrelative:singleton.dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|c:\\users\\ahmed\\downloads\\my-github\\designpatterns\\designpatterns\\singleton.dp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{DBD0CEB4-F86F-45DF-B232-A745F2A51F0B}|Singleton.DP\\Singleton.DP.csproj|solutionrelative:singleton.dp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
@@ -22,45 +62,173 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Strategy.DP",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategy.DP.csproj",
+              "RelativeDocumentMoniker": "Strategy.DP\\Strategy.DP.csproj",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategy.DP.csproj",
+              "RelativeToolTip": "Strategy.DP\\Strategy.DP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T23:12:34.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Context\\PaymentContext.cs",
+              "RelativeDocumentMoniker": "Strategy.DP\\Context\\PaymentContext.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Context\\PaymentContext.cs",
+              "RelativeToolTip": "Strategy.DP\\Context\\PaymentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:09:58.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Wrong\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Strategy.DP\\Wrong\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Wrong\\PaymentService.cs*",
+              "RelativeToolTip": "Strategy.DP\\Wrong\\PaymentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:05:39.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\README.md",
+              "RelativeDocumentMoniker": "Strategy.DP\\README.md",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\README.md",
+              "RelativeToolTip": "Strategy.DP\\README.md",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-24T23:04:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategies\\CashPayment.cs",
+              "RelativeDocumentMoniker": "Strategy.DP\\Strategies\\CashPayment.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategies\\CashPayment.cs*",
+              "RelativeToolTip": "Strategy.DP\\Strategies\\CashPayment.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:04:11.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaypalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategies\\PaypalPayment.cs",
+              "RelativeDocumentMoniker": "Strategy.DP\\Strategies\\PaypalPayment.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategies\\PaypalPayment.cs*",
+              "RelativeToolTip": "Strategy.DP\\Strategies\\PaypalPayment.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:04:03.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategies\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "Strategy.DP\\Strategies\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategies\\CreditCardPayment.cs*",
+              "RelativeToolTip": "Strategy.DP\\Strategies\\CreditCardPayment.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:03:55.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategies\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy.DP\\Strategies\\IPaymentStrategy.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategies\\IPaymentStrategy.cs*",
+              "RelativeToolTip": "Strategy.DP\\Strategies\\IPaymentStrategy.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:03:48.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Strategy.DP",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategy.DP.csproj",
+              "RelativeDocumentMoniker": "Strategy.DP\\Strategy.DP.csproj",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Strategy.DP.csproj",
+              "RelativeToolTip": "Strategy.DP\\Strategy.DP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T23:03:05.087Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Program.cs",
+              "RelativeDocumentMoniker": "Strategy.DP\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Strategy.DP\\Program.cs*",
+              "RelativeToolTip": "Strategy.DP\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T23:02:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "GCard.cs",
-              "DocumentMoniker": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\GCard.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\GCard.cs",
               "RelativeDocumentMoniker": "Singleton.DP\\GCard.cs",
-              "ToolTip": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\GCard.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\GCard.cs",
               "RelativeToolTip": "Singleton.DP\\GCard.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T06:17:35.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "README.md",
-              "DocumentMoniker": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\README.md",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\README.md",
               "RelativeDocumentMoniker": "Singleton.DP\\README.md",
-              "ToolTip": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\README.md",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\README.md",
               "RelativeToolTip": "Singleton.DP\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-23T06:17:18.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T06:17:18.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Program.cs",
               "RelativeDocumentMoniker": "Singleton.DP\\Program.cs",
-              "ToolTip": "D:\\Backend\\.net\\project\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\DesignPatterns\\DesignPatterns\\Singleton.DP\\Program.cs",
               "RelativeToolTip": "Singleton.DP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
